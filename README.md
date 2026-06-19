@@ -12,7 +12,7 @@ A modern and responsive bakery website designed to showcase delicious baked prod
 
 ## 📸 Preview
 
-![Home Page]()
+![Home Page](image.png)
 
 ---
 
